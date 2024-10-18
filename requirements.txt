@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+google-cloud-speech
+google-cloud-texttospeech
+openai
+moviepy
